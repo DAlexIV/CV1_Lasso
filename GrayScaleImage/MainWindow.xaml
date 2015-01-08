@@ -12,7 +12,7 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <Button x:Name="openFileButton" Grid.Column="0" Grid.Row="0" Content="Open image" Padding="10" Margin="10,10,0,0" Click="openFileButton_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Width="85"/>
+        <Button x:Name="openFileButton" Grid.Column="0" Grid.Row="0" Content="Open image" Padding="10" Margin="10,10,0,0" Click="openFileButton_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100"/>
 
         <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
             <Button x:Name="sobelButton" Content="Sobel" Padding="10" Margin="0 10 0 0" Click="Button_Click" IsEnabled="False"/>
