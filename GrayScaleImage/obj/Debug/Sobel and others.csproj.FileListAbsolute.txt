@@ -1,0 +1,26 @@
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\bin\Debug\GrayScaleImage.exe
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\bin\Debug\GrayScaleImage.pdb
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\Sobel and others.csprojResolveAssemblyReference.cache
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\MainWindow.baml
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\MainWindow.g.cs
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\App.g.cs
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\GrayScaleImage_MarkupCompile.cache
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\GrayScaleImage.g.resources
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\GrayScaleImage.Properties.Resources.resources
+C:\Study\C#\seminars-master\seminar01\GrayScaleImage\obj\Debug\Sobel and others.csproj.GenerateResource.Cache
+c:\Work\Code\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+c:\Work\Code\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+c:\Work\Code\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+c:\Work\Code\GrayScaleImage\bin\Debug\GrayScaleImage.exe
+c:\Work\Code\GrayScaleImage\bin\Debug\GrayScaleImage.pdb
+c:\Work\Code\GrayScaleImage\obj\Debug\Sobel and others.csprojResolveAssemblyReference.cache
+c:\Work\Code\GrayScaleImage\obj\Debug\MainWindow.baml
+c:\Work\Code\GrayScaleImage\obj\Debug\MainWindow.g.cs
+c:\Work\Code\GrayScaleImage\obj\Debug\App.g.cs
+c:\Work\Code\GrayScaleImage\obj\Debug\GrayScaleImage_MarkupCompile.cache
+c:\Work\Code\GrayScaleImage\obj\Debug\GrayScaleImage.g.resources
+c:\Work\Code\GrayScaleImage\obj\Debug\GrayScaleImage.Properties.Resources.resources
+c:\Work\Code\GrayScaleImage\obj\Debug\Sobel and others.csproj.GenerateResource.Cache
